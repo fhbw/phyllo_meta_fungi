@@ -1,0 +1,105 @@
+* Block Type = 96fast																							
+* Chemistry = SYBR_GREEN																							
+* Experiment File Name = D:\Users\INSTR-USER\Desktop\Falk\Neustadt_2020\Enig_Neustadt_2020_leaf.eds																							
+* Experiment Run End Time = 2022-01-06 15:41:39 PM CET																							
+* Instrument Type = sds7500fast																							
+* Passive Reference = ROX																							
+																							
+[Results]																							
+Well	Sample Name	Target Name	Task	Reporter	Quencher	Cт	Cт Mean	Cт SD	Quantity	Quantity Mean	Quantity SD	Automatic Ct Threshold	Ct Threshold	Automatic Baseline	Baseline Start	Baseline End	Tm1	Tm2	Tm3	Comments	HIGHSD	NOAMP	EXPFAIL
+A1	N1K1L	Enig	UNKNOWN	SYBR	None	31.7583	30.7522	2.4114	0	0	0	false	0.25	true	3	26	82.8				Y	N	N
+A2	N1K2L	Enig	UNKNOWN	SYBR	None	30.3798	31.3511	1.1471	0	0	0	false	0.25	true	3	25	82.8				Y	N	N
+A3	N1K3L	Enig	UNKNOWN	SYBR	None	33.3357	33.7553	1.8051	0	0	0	false	0.25	true	3	28	82.8				Y	N	N
+A4	N1S1L	Enig	UNKNOWN	SYBR	None	34.2886	32.8144	1.2839	0	0	0	false	0.25	true	3	29	82.8				Y	N	N
+A5	N1S2L	Enig	UNKNOWN	SYBR	None	30.8169	32.2241	1.4105	0	0	0	false	0.25	true	3	25	82.8				Y	N	N
+A6	N1S3L	Enig	UNKNOWN	SYBR	None	31.5319	31.9438	0.5825	0	0	0	false	0.25	true	3	26	82.8				Y	N	N
+A7	N1Cu1L	Enig	UNKNOWN	SYBR	None	32.9709	33.3654	0.4172	0	0	0	false	0.25	true	3	28	82.8				N	N	N
+A8	N1Cu2L	Enig	UNKNOWN	SYBR	None	Undetermined	34.4733					false	0.25	true	3	39	70.6				N	Y	Y
+A9	N1Cu3L	Enig	UNKNOWN	SYBR	None	35.7448	33.9122	1.6403	0	0	0	false	0.25	true	3	31	72.6				Y	N	N
+A10																					N	N	N
+A11																					N	N	N
+A12																					N	N	N
+B1	N1K1L	Enig	UNKNOWN	SYBR	None	28.0006	30.7522	2.4114	0	0	0	false	0.25	true	3	23	83.8				Y	N	N
+B2	N1K2L	Enig	UNKNOWN	SYBR	None	32.6167	31.3511	1.1471	0	0	0	false	0.25	true	3	27	82.8				Y	N	N
+B3	N1K3L	Enig	UNKNOWN	SYBR	None	35.7333	33.7553	1.8051	0	0	0	false	0.25	true	3	31	82.8				Y	N	N
+B4	N1S1L	Enig	UNKNOWN	SYBR	None	31.9419	32.8144	1.2839	0	0	0	false	0.25	true	3	27	82.8				Y	N	N
+B5	N1S2L	Enig	UNKNOWN	SYBR	None	32.2175	32.2241	1.4105	0	0	0	false	0.25	true	3	27	82.8				Y	N	N
+B6	N1S3L	Enig	UNKNOWN	SYBR	None	32.3557	31.9438	0.5825	0	0	0	false	0.25	true	3	27	82.8				Y	N	N
+B7	N1Cu1L	Enig	UNKNOWN	SYBR	None	33.3231	33.3654	0.4172	0	0	0	false	0.25	true	3	28	82.8				N	N	N
+B8	N1Cu2L	Enig	UNKNOWN	SYBR	None	Undetermined	34.4733					false	0.25	true	3	39	70.6				N	N	Y
+B9	N1Cu3L	Enig	UNKNOWN	SYBR	None	32.5812	33.9122	1.6403	0	0	0	false	0.25	true	3	27	82.8				Y	N	N
+B10																					N	N	N
+B11																					N	N	N
+B12																					N	N	N
+C1	N1K1L	Enig	UNKNOWN	SYBR	None	32.4977	30.7522	2.4114	0	0	0	false	0.25	true	3	27	82.8				Y	N	N
+C2	N1K2L	Enig	UNKNOWN	SYBR	None	31.0569	31.3511	1.1471	0	0	0	false	0.25	true	3	26	82.8				Y	N	N
+C3	N1K3L	Enig	UNKNOWN	SYBR	None	32.197	33.7553	1.8051	0	0	0	false	0.25	true	3	27	82.8				Y	N	N
+C4	N1S1L	Enig	UNKNOWN	SYBR	None	32.2128	32.8144	1.2839	0	0	0	false	0.25	true	3	27	82.8				Y	N	N
+C5	N1S2L	Enig	UNKNOWN	SYBR	None	33.638	32.2241	1.4105	0	0	0	false	0.25	true	3	28	82.8				Y	N	N
+C6	N1S3L	Enig	UNKNOWN	SYBR	None	Undetermined	31.9438	0.5825				false	0.25	true	3	39	72.6				N	Y	Y
+C7	N1Cu1L	Enig	UNKNOWN	SYBR	None	33.8022	33.3654	0.4172	0	0	0	false	0.25	true	3	28	82.8				N	N	N
+C8	N1Cu2L	Enig	UNKNOWN	SYBR	None	34.4733	34.4733		0	0		false	0.25	true	3	29	83.8				N	N	N
+C9	N1Cu3L	Enig	UNKNOWN	SYBR	None	33.4107	33.9122	1.6403	0	0	0	false	0.25	true	3	28	82.8				Y	N	N
+C10																					N	N	N
+C11																					N	N	N
+C12																					N	N	N
+D1	N2K1L	Enig	UNKNOWN	SYBR	None	27.7339	27.7371	0.0076	0	0	0	false	0.25	true	3	22	82.8				N	N	N
+D2	N2K2L	Enig	UNKNOWN	SYBR	None	28.3467	28.6083	0.4049	0	0	0	false	0.25	true	3	23	82.8				N	N	N
+D3	N2K3L	Enig	UNKNOWN	SYBR	None	27.972	27.8115	0.3968	0	0	0	false	0.25	true	3	23	82.8				N	N	N
+D4	N2S1L	Enig	UNKNOWN	SYBR	None	28.948	28.8758	0.247	0	0	0	false	0.25	true	3	24	83.8				N	N	N
+D5	N2S2L	Enig	UNKNOWN	SYBR	None	28.9814	29.1952	0.1882	0	0	0	false	0.25	true	3	24	83.8				N	N	N
+D6	N2S3L	Enig	UNKNOWN	SYBR	None	28.5675	28.5943	0.2997	0	0	0	false	0.25	true	3	23	83.8				N	N	N
+D7	N2Cu1L	Enig	UNKNOWN	SYBR	None	29.0022	29.3468	0.3074	0	0	0	false	0.25	true	3	24	83.8				N	N	N
+D8	N2Cu2L	Enig	UNKNOWN	SYBR	None	32.1468	31.5451	0.6275	0	0	0	false	0.25	true	3	27	82.8				Y	N	N
+D9	N2Cu3L	Enig	UNKNOWN	SYBR	None	30.9669	31.3224	0.8358	0	0	0	false	0.25	true	3	26	83.8				Y	N	N
+D10																					N	N	N
+D11																					N	N	N
+D12																					N	N	N
+E1	N2K1L	Enig	UNKNOWN	SYBR	None	27.7458	27.7371	0.0076	0	0	0	false	0.25	true	3	22	82.8				N	N	N
+E2	N2K2L	Enig	UNKNOWN	SYBR	None	28.4036	28.6083	0.4049	0	0	0	false	0.25	true	3	22	82.8				N	N	N
+E3	N2K3L	Enig	UNKNOWN	SYBR	None	28.1029	27.8115	0.3968	0	0	0	false	0.25	true	3	23	82.8				N	N	N
+E4	N2S1L	Enig	UNKNOWN	SYBR	None	28.6007	28.8758	0.247	0	0	0	false	0.25	true	3	23	83.8				N	N	N
+E5	N2S2L	Enig	UNKNOWN	SYBR	None	29.2681	29.1952	0.1882	0	0	0	false	0.25	true	3	24	83.8				N	N	N
+E6	N2S3L	Enig	UNKNOWN	SYBR	None	28.3089	28.5943	0.2997	0	0	0	false	0.25	true	3	23	83.8				N	N	N
+E7	N2Cu1L	Enig	UNKNOWN	SYBR	None	29.5928	29.3468	0.3074	0	0	0	false	0.25	true	3	24	83.8				N	N	N
+E8	N2Cu2L	Enig	UNKNOWN	SYBR	None	31.5939	31.5451	0.6275	0	0	0	false	0.25	true	3	26	82.8				Y	N	N
+E9	N2Cu3L	Enig	UNKNOWN	SYBR	None	30.7232	31.3224	0.8358	0	0	0	false	0.25	true	3	26	83.8				Y	N	N
+E10																					N	N	N
+E11																					N	N	N
+E12																					N	N	N
+F1	N2K1L	Enig	UNKNOWN	SYBR	None	27.7316	27.7371	0.0076	0	0	0	false	0.25	true	3	23	82.8				N	N	N
+F2	N2K2L	Enig	UNKNOWN	SYBR	None	29.0747	28.6083	0.4049	0	0	0	false	0.25	true	3	24	82.8				N	N	N
+F3	N2K3L	Enig	UNKNOWN	SYBR	None	27.3596	27.8115	0.3968	0.0001	0	0	false	0.25	true	3	23	82.8				N	N	N
+F4	N2S1L	Enig	UNKNOWN	SYBR	None	29.0786	28.8758	0.247	0	0	0	false	0.25	true	3	24	83.8				N	N	N
+F5	N2S2L	Enig	UNKNOWN	SYBR	None	29.336	29.1952	0.1882	0	0	0	false	0.25	true	3	24	83.8				N	N	N
+F6	N2S3L	Enig	UNKNOWN	SYBR	None	28.9064	28.5943	0.2997	0	0	0	false	0.25	true	3	24	83.8				N	N	N
+F7	N2Cu1L	Enig	UNKNOWN	SYBR	None	29.4453	29.3468	0.3074	0	0	0	false	0.25	true	3	24	83.8				N	N	N
+F8	N2Cu2L	Enig	UNKNOWN	SYBR	None	30.8946	31.5451	0.6275	0	0	0	false	0.25	true	3	26	82.8				Y	N	N
+F9	N2Cu3L	Enig	UNKNOWN	SYBR	None	32.2773	31.3224	0.8358	0	0	0	false	0.25	true	3	27	82.8				Y	N	N
+F10																					N	N	N
+F11																					N	N	N
+F12																					N	N	N
+G1	SB13_1	Enig	STANDARD	SYBR	None	11.1943	11.0543	0.198	1.15			false	0.25	true	3	6	82.8				N	N	N
+G2	SB13_2	Enig	STANDARD	SYBR	None	15.3079	15.2343	0.1042	0.115			false	0.25	true	3	11	82.8				N	N	N
+G3	SB13_3	Enig	STANDARD	SYBR	None	18.9506	18.9107	0.0565	0.0115			false	0.25	true	3	14	82.8				N	N	N
+G4	SB13_4	Enig	STANDARD	SYBR	None	22.4744	22.4693	0.0073	0.0012			false	0.25	true	3	17	83.8				N	N	N
+G5	SB13_5	Enig	STANDARD	SYBR	None	26.2119	26.2899	0.1103	0.0001			false	0.25	true	3	21	83.8				N	N	N
+G6	SB13_6	Enig	STANDARD	SYBR	None	30.7682	30.2739	0.699	0			false	0.25	true	3	26	82.8				Y	N	N
+G7	SB13_7	Enig	STANDARD	SYBR	None	33.8042	33.7414	0.0888	0			false	0.25	true	3	29	82.8				N	N	N
+G8	SB13_8	Enig	STANDARD	SYBR	None	Undetermined			0			false	0.25	true	3	39	70.6				N	Y	Y
+G9	EB	Enig	NTC	SYBR	None	Undetermined						false	0.25	true	3	39	70.85				N	N	N
+G10																					N	N	N
+G11																					N	N	N
+G12																					N	N	N
+H1	SB13_1	Enig	STANDARD	SYBR	None	10.9143	11.0543	0.198	1.15			false	0.25	true	3	5	82.8				N	N	N
+H2	SB13_2	Enig	STANDARD	SYBR	None	15.1606	15.2343	0.1042	0.115			false	0.25	true	3	11	82.8				N	N	N
+H3	SB13_3	Enig	STANDARD	SYBR	None	18.8708	18.9107	0.0565	0.0115			false	0.25	true	3	13	82.8				N	N	N
+H4	SB13_4	Enig	STANDARD	SYBR	None	22.4641	22.4693	0.0073	0.0012			false	0.25	true	3	17	82.8				N	N	N
+H5	SB13_5	Enig	STANDARD	SYBR	None	26.3679	26.2899	0.1103	0.0001			false	0.25	true	3	21	82.8				N	N	N
+H6	SB13_6	Enig	STANDARD	SYBR	None	29.7796	30.2739	0.699	0			false	0.25	true	3	25	82.8				Y	N	N
+H7	SB13_7	Enig	STANDARD	SYBR	None	33.6786	33.7414	0.0888	0			false	0.25	true	3	28	82.8				N	N	N
+H8	SB13_8	Enig	STANDARD	SYBR	None	Undetermined			0			false	0.25	true	3	39	72.1				N	N	Y
+H9	EB	Enig	NTC	SYBR	None	Undetermined						false	0.25	true	3	39	71.1				N	N	N
+H10																					N	N	N
+H11																					N	N	N
+H12																					N	N	N

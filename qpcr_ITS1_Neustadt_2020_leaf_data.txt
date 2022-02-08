@@ -1,0 +1,105 @@
+* Block Type = 96fast																						
+* Chemistry = SYBR_GREEN																						
+* Experiment File Name = D:\Users\INSTR-USER\Desktop\Falk\Neustadt_2020\ITS1_Neustadt_2020_leaf.eds																						
+* Experiment Run End Time = 2022-01-06 17:44:48 PM CET																						
+* Instrument Type = sds7500fast																						
+* Passive Reference = ROX																						
+																						
+[Results]																						
+Well	Sample Name	Target Name	Task	Reporter	Quencher	Cт	Cт Mean	Cт SD	Quantity	Quantity Mean	Quantity SD	Automatic Ct Threshold	Ct Threshold	Automatic Baseline	Baseline Start	Baseline End	Tm1	Tm2	Tm3	Comments	NOAMP	EXPFAIL
+A1	N1K1L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	25.26	25.3546	0.0917	0	0	0	false	0.25	true	3	21	85.3				N	N
+A2	N1K2L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	25.2407	25.1741	0.0997	0	0.0001	0	false	0.25	true	3	19	86.6				N	N
+A3	N1K3L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	24.1111	24.2758	0.1622	0.0001	0.0001	0	false	0.25	true	3	19	91.85				N	N
+A4	N1S1L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	26.0335	25.8566	0.155	0	0	0	false	0.25	true	3	21	87.1				N	N
+A5	N1S2L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	25.7199	25.6585	0.0955	0	0	0	false	0.25	true	3	20	87.1				N	N
+A6	N1S3L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	25.5175	25.733	0.2802	0	0	0	false	0.25	true	3	20	87.1				N	N
+A7	N1Cu1L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	23.9063	23.8625	0.0905	0.0001	0.0001	0	false	0.25	true	3	18	85.3				N	N
+A8	N1Cu2L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	27.9403	28.3546	0.3773	0	0	0	false	0.25	true	3	22	87.1				N	N
+A9	N1Cu3L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	25.157	25.4167	0.2411	0.0001	0	0	false	0.25	true	3	19	87.1				N	N
+A10																					N	N
+A11																					N	N
+A12																					N	N
+B1	N1K1L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	25.3609	25.3546	0.0917	0	0	0	false	0.25	true	3	20	85.3				N	N
+B2	N1K2L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	25.2221	25.1741	0.0997	0	0.0001	0	false	0.25	true	3	20	87.1				N	N
+B3	N1K3L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	24.4354	24.2758	0.1622	0.0001	0.0001	0	false	0.25	true	3	20	86.85				N	N
+B4	N1S1L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	25.7448	25.8566	0.155	0	0	0	false	0.25	true	3	20	87.1				N	N
+B5	N1S2L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	25.5485	25.6585	0.0955	0	0	0	false	0.25	true	3	20	87.35				N	N
+B6	N1S3L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	26.0497	25.733	0.2802	0	0	0	false	0.25	true	3	21	87.1				N	N
+B7	N1Cu1L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	23.7584	23.8625	0.0905	0.0001	0.0001	0	false	0.25	true	3	18	85.3				N	N
+B8	N1Cu2L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	28.445	28.3546	0.3773	0	0	0	false	0.25	true	3	23	87.1				N	N
+B9	N1Cu3L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	25.6332	25.4167	0.2411	0	0	0	false	0.25	true	3	21	87.1				N	N
+B10																					N	N
+B11																					N	N
+B12																					N	N
+C1	N1K1L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	25.4431	25.3546	0.0917	0	0	0	false	0.25	true	3	20	85.3				N	N
+C2	N1K2L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	25.0594	25.1741	0.0997	0.0001	0.0001	0	false	0.25	true	3	19	87.1				N	N
+C3	N1K3L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	24.281	24.2758	0.1622	0.0001	0.0001	0	false	0.25	true	3	18	91.6				N	N
+C4	N1S1L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	25.7915	25.8566	0.155	0	0	0	false	0.25	true	3	19	87.1				N	N
+C5	N1S2L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	25.707	25.6585	0.0955	0	0	0	false	0.25	true	3	21	87.1				N	N
+C6	N1S3L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	25.6318	25.733	0.2802	0	0	0	false	0.25	true	3	20	87.1				N	N
+C7	N1Cu1L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	23.9228	23.8625	0.0905	0.0001	0.0001	0	false	0.25	true	3	18	85.3				N	N
+C8	N1Cu2L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	28.6786	28.3546	0.3773	0	0	0	false	0.25	true	3	23	87.85				N	N
+C9	N1Cu3L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	25.46	25.4167	0.2411	0	0	0	false	0.25	true	3	20	87.1				N	N
+C10																					N	N
+C11																					N	N
+C12																					N	N
+D1	N2K1L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	20.4497	20.4599	0.0614	0.0012	0.0012	0.0001	false	0.25	true	3	15	87.1				N	N
+D2	N2K2L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	20.6356	20.6743	0.0426	0.0011	0.0011	0	false	0.25	true	3	15	87.1				N	N
+D3	N2K3L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	19.8781	20.0094	0.141	0.0018	0.0017	0.0002	false	0.25	true	3	13	87.1				N	N
+D4	N2S1L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	21.959	21.9812	0.0517	0.0004	0.0004	0	false	0.25	true	3	16	87.6				N	N
+D5	N2S2L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	21.5046	21.5326	0.0243	0.0006	0.0006	0	false	0.25	true	3	16	87.1				N	N
+D6	N2S3L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	20.4307	20.3605	0.0614	0.0013	0.0013	0.0001	false	0.25	true	3	15	87.1				N	N
+D7	N2Cu1L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	23.5	23.4424	0.0538	0.0002	0.0002	0	false	0.25	true	3	18	87.1				N	N
+D8	N2Cu2L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	24.1734	24.2635	0.0926	0.0001	0.0001	0	false	0.25	true	3	19	87.1				N	N
+D9	N2Cu3L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	23.6997	23.671	0.0293	0.0001	0.0001	0	false	0.25	true	3	19	87.35				N	N
+D10																					N	N
+D11																					N	N
+D12																					N	N
+E1	N2K1L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	20.4042	20.4599	0.0614	0.0013	0.0012	0.0001	false	0.25	true	3	15	87.1				N	N
+E2	N2K2L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	20.6673	20.6743	0.0426	0.0011	0.0011	0	false	0.25	true	3	16	87.1				N	N
+E3	N2K3L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	19.9916	20.0094	0.141	0.0017	0.0017	0.0002	false	0.25	true	3	15	87.35				N	N
+E4	N2S1L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	21.9442	21.9812	0.0517	0.0005	0.0004	0	false	0.25	true	3	16	87.6				N	N
+E5	N2S2L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	21.546	21.5326	0.0243	0.0006	0.0006	0	false	0.25	true	3	16	87.1				N	N
+E6	N2S3L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	20.3336	20.3605	0.0614	0.0013	0.0013	0.0001	false	0.25	true	3	15	87.35				N	N
+E7	N2Cu1L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	23.3934	23.4424	0.0538	0.0002	0.0002	0	false	0.25	true	3	18	87.35				N	N
+E8	N2Cu2L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	24.2587	24.2635	0.0926	0.0001	0.0001	0	false	0.25	true	3	19	87.35				N	N
+E9	N2Cu3L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	23.6412	23.671	0.0293	0.0001	0.0001	0	false	0.25	true	3	19	87.6				N	N
+E10																					N	N
+E11																					N	N
+E12																					N	N
+F1	N2K1L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	20.5257	20.4599	0.0614	0.0012	0.0012	0.0001	false	0.25	true	3	15	86.6				N	N
+F2	N2K2L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	20.72	20.6743	0.0426	0.001	0.0011	0	false	0.25	true	3	15	87.1				N	N
+F3	N2K3L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	20.1584	20.0094	0.141	0.0015	0.0017	0.0002	false	0.25	true	3	16	87.1				N	N
+F4	N2S1L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	22.0403	21.9812	0.0517	0.0004	0.0004	0	false	0.25	true	3	17	87.1				N	N
+F5	N2S2L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	21.5472	21.5326	0.0243	0.0006	0.0006	0	false	0.25	true	3	16	87.1				N	N
+F6	N2S3L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	20.3171	20.3605	0.0614	0.0014	0.0013	0.0001	false	0.25	true	3	15	87.1				N	N
+F7	N2Cu1L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	23.4338	23.4424	0.0538	0.0002	0.0002	0	false	0.25	true	3	18	87.1				N	N
+F8	N2Cu2L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	24.3584	24.2635	0.0926	0.0001	0.0001	0	false	0.25	true	3	19	87.1				N	N
+F9	N2Cu3L	ITS1catta/ITS2ngs	UNKNOWN	SYBR	None	23.672	23.671	0.0293	0.0001	0.0001	0	false	0.25	true	3	18	87.1				N	N
+F10																					N	N
+F11																					N	N
+F12																					N	N
+G1	Mix_1	ITS1catta/ITS2ngs	STANDARD	SYBR	None	10.1543	10.3056	0.214	0.85			false	0.25	true	3	6	87.35				N	N
+G2	Mix_2	ITS1catta/ITS2ngs	STANDARD	SYBR	None	13.7671	14.042	0.3888	0.085			false	0.25	true	3	7	87.35				N	N
+G3	Mix_3	ITS1catta/ITS2ngs	STANDARD	SYBR	None	17.5348	17.4863	0.0685	0.0085			false	0.25	true	3	13	87.1				N	N
+G4	Mix_4	ITS1catta/ITS2ngs	STANDARD	SYBR	None	21.3067	21.327	0.0286	0.0009			false	0.25	true	3	16	87.85				N	N
+G5	Mix_5	ITS1catta/ITS2ngs	STANDARD	SYBR	None	24.8474	24.9162	0.0973	0.0001			false	0.25	true	3	20	87.6				N	N
+G6	Mix_6	ITS1catta/ITS2ngs	STANDARD	SYBR	None	27.8482	28.0675	0.3102	0			false	0.25	true	3	22	83.3				N	N
+G7	Mix_7	ITS1catta/ITS2ngs	STANDARD	SYBR	None	Undetermined	33.8677		0			false	0.25	true	3	39	72.3				Y	Y
+G8	Mix_8	ITS1catta/ITS2ngs	STANDARD	SYBR	None	32.8754	33.04	0.2327	0			false	0.25	true	3	27	87.85				N	N
+G9	EB	ITS1catta/ITS2ngs	NTC	SYBR	None	Undetermined						false	0.25	true	3	39	72.3				N	N
+G10																					N	N
+G11																					N	N
+G12																					N	N
+H1	Mix_1	ITS1catta/ITS2ngs	STANDARD	SYBR	None	10.457	10.3056	0.214	0.85			false	0.25	true	3	6	87.1				N	N
+H2	Mix_2	ITS1catta/ITS2ngs	STANDARD	SYBR	None	14.3169	14.042	0.3888	0.085			false	0.25	true	3	6	87.1				N	N
+H3	Mix_3	ITS1catta/ITS2ngs	STANDARD	SYBR	None	17.4379	17.4863	0.0685	0.0085			false	0.25	true	3	13	87.1				N	N
+H4	Mix_4	ITS1catta/ITS2ngs	STANDARD	SYBR	None	21.3472	21.327	0.0286	0.0009			false	0.25	true	3	16	87.35				N	N
+H5	Mix_5	ITS1catta/ITS2ngs	STANDARD	SYBR	None	24.985	24.9162	0.0973	0.0001			false	0.25	true	3	19	87.35				N	N
+H6	Mix_6	ITS1catta/ITS2ngs	STANDARD	SYBR	None	28.2869	28.0675	0.3102	0			false	0.25	true	3	23	87.35				N	N
+H7	Mix_7	ITS1catta/ITS2ngs	STANDARD	SYBR	None	33.8677	33.8677		0			false	0.25	true	3	28	84.3				N	N
+H8	Mix_8	ITS1catta/ITS2ngs	STANDARD	SYBR	None	33.2045	33.04	0.2327	0			false	0.25	true	3	27	84.3				N	N
+H9	EB	ITS1catta/ITS2ngs	NTC	SYBR	None	Undetermined						false	0.25	true	3	35	73.3				N	N
+H10																					N	N
+H11																					N	N
+H12																					N	N

@@ -1,0 +1,105 @@
+* Block Type = 96fast																							
+* Chemistry = SYBR_GREEN																							
+* Experiment File Name = D:\Users\INSTR-USER\Desktop\Falk\Neustadt_2020\Abas_Neustadt_2020_leaf.eds																							
+* Experiment Run End Time = 2022-01-05 18:10:54 PM CET																							
+* Instrument Type = sds7500fast																							
+* Passive Reference = ROX																							
+																							
+[Results]																							
+Well	Sample Name	Target Name	Task	Reporter	Quencher	Cт	Cт Mean	Cт SD	Quantity	Quantity Mean	Quantity SD	Automatic Ct Threshold	Ct Threshold	Automatic Baseline	Baseline Start	Baseline End	Tm1	Tm2	Tm3	Comments	HIGHSD	NOAMP	EXPFAIL
+A1	N1K1L	Abas	UNKNOWN	SYBR	None	31.9092	31.8719	0.4372	0	0	0	false	0.25	true	3	26	87.1				N	N	N
+A2	N1K2L	Abas	UNKNOWN	SYBR	None	28.8449	28.8951	0.0773	0	0	0	false	0.25	true	3	23	87.8				N	N	N
+A3	N1K3L	Abas	UNKNOWN	SYBR	None	29.8241	29.6665	0.4532	0	0	0	false	0.25	true	3	24	87.8				N	N	N
+A4	N1S1L	Abas	UNKNOWN	SYBR	None	32.232	33.2113	1.0275	0	0	0	false	0.25	true	3	27	87.8				Y	N	N
+A5	N1S2L	Abas	UNKNOWN	SYBR	None	32.2001	31.734	0.405	0	0	0	false	0.25	true	3	27	87.8				N	N	N
+A6	N1S3L	Abas	UNKNOWN	SYBR	None	29.3871	29.6724	0.2572	0	0	0	false	0.25	true	3	24	87.8				N	N	N
+A7	N1Cu1L	Abas	UNKNOWN	SYBR	None	29.9455	30.0734	0.446	0	0	0	false	0.25	true	3	24	87.8				N	N	N
+A8	N1Cu2L	Abas	UNKNOWN	SYBR	None	32.6106	33.133	0.4568	0	0	0	false	0.25	true	3	27	87.8				N	N	N
+A9	N1Cu3L	Abas	UNKNOWN	SYBR	None	31.0286	31.1104	0.3995	0	0	0	false	0.25	true	3	26	87.8				N	N	N
+A10																					N	N	N
+A11																					N	N	N
+A12																					N	N	N
+B1	N1K1L	Abas	UNKNOWN	SYBR	None	31.4173	31.8719	0.4372	0	0	0	false	0.25	true	3	27	87.1				N	N	N
+B2	N1K2L	Abas	UNKNOWN	SYBR	None	28.984	28.8951	0.0773	0	0	0	false	0.25	true	3	23	87.8				N	N	N
+B3	N1K3L	Abas	UNKNOWN	SYBR	None	30.0197	29.6665	0.4532	0	0	0	false	0.25	true	3	25	87.8				N	N	N
+B4	N1S1L	Abas	UNKNOWN	SYBR	None	34.281	33.2113	1.0275	0	0	0	false	0.25	true	3	29	87.8				Y	N	N
+B5	N1S2L	Abas	UNKNOWN	SYBR	None	31.4677	31.734	0.405	0	0	0	false	0.25	true	3	26	87.8				N	N	N
+B6	N1S3L	Abas	UNKNOWN	SYBR	None	29.8863	29.6724	0.2572	0	0	0	false	0.25	true	3	25	87.8				N	N	N
+B7	N1Cu1L	Abas	UNKNOWN	SYBR	None	30.5694	30.0734	0.446	0	0	0	false	0.25	true	3	25	87.8				N	N	N
+B8	N1Cu2L	Abas	UNKNOWN	SYBR	None	33.4574	33.133	0.4568	0	0	0	false	0.25	true	3	27	87.8				N	N	N
+B9	N1Cu3L	Abas	UNKNOWN	SYBR	None	31.5444	31.1104	0.3995	0	0	0	false	0.25	true	3	27	87.8				N	N	N
+B10																					N	N	N
+B11																					N	N	N
+B12																					N	N	N
+C1	N1K1L	Abas	UNKNOWN	SYBR	None	32.2893	31.8719	0.4372	0	0	0	false	0.25	true	3	27	87.8				N	N	N
+C2	N1K2L	Abas	UNKNOWN	SYBR	None	28.8563	28.8951	0.0773	0	0	0	false	0.25	true	3	23	87.8				N	N	N
+C3	N1K3L	Abas	UNKNOWN	SYBR	None	29.1555	29.6665	0.4532	0	0	0	false	0.25	true	3	24	87.8				N	N	N
+C4	N1S1L	Abas	UNKNOWN	SYBR	None	33.1209	33.2113	1.0275	0	0	0	false	0.25	true	3	27	87.8				Y	N	N
+C5	N1S2L	Abas	UNKNOWN	SYBR	None	31.5344	31.734	0.405	0	0	0	false	0.25	true	3	27	87.8				N	N	N
+C6	N1S3L	Abas	UNKNOWN	SYBR	None	29.7439	29.6724	0.2572	0	0	0	false	0.25	true	3	24	87.8				N	N	N
+C7	N1Cu1L	Abas	UNKNOWN	SYBR	None	29.7053	30.0734	0.446	0	0	0	false	0.25	true	3	24	87.8				N	N	N
+C8	N1Cu2L	Abas	UNKNOWN	SYBR	None	33.3308	33.133	0.4568	0	0	0	false	0.25	true	3	28	87.8				N	N	N
+C9	N1Cu3L	Abas	UNKNOWN	SYBR	None	30.7581	31.1104	0.3995	0	0	0	false	0.25	true	3	25	87.8				N	N	N
+C10																					N	N	N
+C11																					N	N	N
+C12																					N	N	N
+D1	N2K1L	Abas	UNKNOWN	SYBR	None	23.5491	23.4424	0.1243	0.0003	0.0004	0	false	0.25	true	3	18	87.8				N	N	N
+D2	N2K2L	Abas	UNKNOWN	SYBR	None	25.1017	25.1707	0.0608	0.0001	0.0001	0	false	0.25	true	3	20	87.8				N	N	N
+D3	N2K3L	Abas	UNKNOWN	SYBR	None	23.309	23.477	0.151	0.0004	0.0004	0	false	0.25	true	3	18	87.8				N	N	N
+D4	N2S1L	Abas	UNKNOWN	SYBR	None	24.3503	24.3521	0.0925	0.0002	0.0002	0	false	0.25	true	3	19	87.8				N	N	N
+D5	N2S2L	Abas	UNKNOWN	SYBR	None	24.7766	24.9311	0.1339	0.0002	0.0002	0	false	0.25	true	3	19	87.8				N	N	N
+D6	N2S3L	Abas	UNKNOWN	SYBR	None	23.3297	23.087	0.4618	0.0004	0.0005	0.0001	false	0.25	true	3	18	87.8				N	N	N
+D7	N2Cu1L	Abas	UNKNOWN	SYBR	None	26.1484	26.2028	0.0644	0.0001	0.0001	0	false	0.25	true	3	20	87.8				N	N	N
+D8	N2Cu2L	Abas	UNKNOWN	SYBR	None	26.7339	27.0115	0.2952	0.0001	0	0	false	0.25	true	3	21	87.8				N	N	N
+D9	N2Cu3L	Abas	UNKNOWN	SYBR	None	26.8655	26.9037	0.0749	0	0	0	false	0.25	true	3	22	87.8				N	N	N
+D10																					N	N	N
+D11																					N	N	N
+D12																					N	N	N
+E1	N2K1L	Abas	UNKNOWN	SYBR	None	23.4723	23.4424	0.1243	0.0004	0.0004	0	false	0.25	true	3	18	87.8				N	N	N
+E2	N2K2L	Abas	UNKNOWN	SYBR	None	25.2167	25.1707	0.0608	0.0001	0.0001	0	false	0.25	true	3	19	87.8				N	N	N
+E3	N2K3L	Abas	UNKNOWN	SYBR	None	23.5206	23.477	0.151	0.0004	0.0004	0	false	0.25	true	3	18	87.8				N	N	N
+E4	N2S1L	Abas	UNKNOWN	SYBR	None	24.2605	24.3521	0.0925	0.0002	0.0002	0	false	0.25	true	3	19	87.8				N	N	N
+E5	N2S2L	Abas	UNKNOWN	SYBR	None	25.0053	24.9311	0.1339	0.0001	0.0002	0	false	0.25	true	3	20	87.8				N	N	N
+E6	N2S3L	Abas	UNKNOWN	SYBR	None	22.5545	23.087	0.4618	0.0006	0.0005	0.0001	false	0.25	true	3	17	87.8				N	N	N
+E7	N2Cu1L	Abas	UNKNOWN	SYBR	None	26.1861	26.2028	0.0644	0.0001	0.0001	0	false	0.25	true	3	21	87.8				N	N	N
+E8	N2Cu2L	Abas	UNKNOWN	SYBR	None	26.9788	27.0115	0.2952	0	0	0	false	0.25	true	3	21	87.8				N	N	N
+E9	N2Cu3L	Abas	UNKNOWN	SYBR	None	26.99	26.9037	0.0749	0	0	0	false	0.25	true	3	22	87.8				N	N	N
+E10																					N	N	N
+E11																					N	N	N
+E12																					N	N	N
+F1	N2K1L	Abas	UNKNOWN	SYBR	None	23.3059	23.4424	0.1243	0.0004	0.0004	0	false	0.25	true	3	18	87.8				N	N	N
+F2	N2K2L	Abas	UNKNOWN	SYBR	None	25.1938	25.1707	0.0608	0.0001	0.0001	0	false	0.25	true	3	20	87.8				N	N	N
+F3	N2K3L	Abas	UNKNOWN	SYBR	None	23.6015	23.477	0.151	0.0003	0.0004	0	false	0.25	true	3	18	87.8				N	N	N
+F4	N2S1L	Abas	UNKNOWN	SYBR	None	24.4455	24.3521	0.0925	0.0002	0.0002	0	false	0.25	true	3	19	87.8				N	N	N
+F5	N2S2L	Abas	UNKNOWN	SYBR	None	25.0114	24.9311	0.1339	0.0001	0.0002	0	false	0.25	true	3	19	87.8				N	N	N
+F6	N2S3L	Abas	UNKNOWN	SYBR	None	23.3769	23.087	0.4618	0.0004	0.0005	0.0001	false	0.25	true	3	18	87.8				N	N	N
+F7	N2Cu1L	Abas	UNKNOWN	SYBR	None	26.274	26.2028	0.0644	0.0001	0.0001	0	false	0.25	true	3	20	87.8				N	N	N
+F8	N2Cu2L	Abas	UNKNOWN	SYBR	None	27.3217	27.0115	0.2952	0	0	0	false	0.25	true	3	22	87.8				N	N	N
+F9	N2Cu3L	Abas	UNKNOWN	SYBR	None	26.8555	26.9037	0.0749	0	0	0	false	0.25	true	3	21	87.8				N	N	N
+F10																					N	N	N
+F11																					N	N	N
+F12																					N	N	N
+G1	WB7_1	Abas	STANDARD	SYBR	None	9.0842	8.7653	0.451	1.9			false	0.25	true	3	4	87.8				N	N	N
+G2	WB7_2	Abas	STANDARD	SYBR	None	12.845	12.8457	0.0009	0.19			false	0.25	true	3	8	87.8				N	N	N
+G3	WB7_3	Abas	STANDARD	SYBR	None	16.4471	16.5685	0.1717	0.019			false	0.25	true	3	11	87.8				N	N	N
+G4	WB7_4	Abas	STANDARD	SYBR	None	21.0154	20.9634	0.0735	0.0019			false	0.25	true	3	15	87.8				N	N	N
+G5	WB7_5	Abas	STANDARD	SYBR	None	24.095	24.1029	0.0111	0.0002			false	0.25	true	3	19	87.8				N	N	N
+G6	WB7_6	Abas	STANDARD	SYBR	None	28.7005	28.7358	0.0498	0			false	0.25	true	3	23	87.8				N	N	N
+G7	WB7_7	Abas	STANDARD	SYBR	None	32.5056	32.3894	0.1643	0			false	0.25	true	3	27	87.8				N	N	N
+G8	WB7_8	Abas	STANDARD	SYBR	None	Undetermined	36.4369		0			false	0.25	true	3	39	70.8				N	Y	Y
+G9	EB	Abas	NTC	SYBR	None	35.2335						false	0.25	true	3	30	74.8				N	N	N
+G10																					N	N	N
+G11																					N	N	N
+G12																					N	N	N
+H1	WB7_1	Abas	STANDARD	SYBR	None	8.4464	8.7653	0.451	1.9			false	0.25	true	1	2	87.8				N	N	N
+H2	WB7_2	Abas	STANDARD	SYBR	None	12.8463	12.8457	0.0009	0.19			false	0.25	true	3	8	87.8				N	N	N
+H3	WB7_3	Abas	STANDARD	SYBR	None	16.6899	16.5685	0.1717	0.019			false	0.25	true	3	12	87.8				N	N	N
+H4	WB7_4	Abas	STANDARD	SYBR	None	20.9115	20.9634	0.0735	0.0019			false	0.25	true	3	15	87.8				N	N	N
+H5	WB7_5	Abas	STANDARD	SYBR	None	24.1107	24.1029	0.0111	0.0002			false	0.25	true	3	19	87.8				N	N	N
+H6	WB7_6	Abas	STANDARD	SYBR	None	28.771	28.7358	0.0498	0			false	0.25	true	3	23	87.8				N	N	N
+H7	WB7_7	Abas	STANDARD	SYBR	None	32.2732	32.3894	0.1643	0			false	0.25	true	3	27	87.8				N	N	N
+H8	WB7_8	Abas	STANDARD	SYBR	None	36.4369	36.4369		0			false	0.25	true	3	31	72.8				N	N	N
+H9	EB	Abas	NTC	SYBR	None	35.0899						false	0.25	true	3	30	72.8				N	N	N
+H10																					N	N	N
+H11																					N	N	N
+H12																					N	N	N
