@@ -11,9 +11,12 @@ Leaf wash sediments (W) and leaf disks (L) are used to characterize the mycobiom
 ### Data analysis
 ##### ASV.merged.table.txt
 ##### samplelist.txt 
-##### ASV_analysis.Rmd
+##### ASV_analysis.html
 
 ### qPCR data for analysis
-##### qpcr_Apul_Neustadt_2020_data.txt
-##### qpcr_Eden_Neustadt_2020_data.txt
-##### qpcr_ITS1_Neustadt_2020_data.txt
+##### qpcr_Apul_Neustadt_2020_leaf_data.txt
+##### qpcr_Apul_Neustadt_2020_wash_data.txt
+##### qpcr_Eden_Neustadt_2020_leaf_data.txt
+##### qpcr_Eden_Neustadt_2020_wash_data.txt
+##### qpcr_ITS1_Neustadt_2020_leaf_data.txt
+##### qpcr_ITS1_Neustadt_2020_wash_data.txt
